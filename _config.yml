@@ -4,7 +4,7 @@ description         : >-
                       I like coffee :coffee:,  clean code, CI, C++, CPython, CLion and coding in general
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : kaiszuttor/kaiszuttor.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : kaiszuttor/portfolYOU
+remote_theme        : youssefraafatnasry/portfolYOU
 
 
 ### Plugins ###
