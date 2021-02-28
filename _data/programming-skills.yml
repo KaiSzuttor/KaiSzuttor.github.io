@@ -10,6 +10,10 @@
   percentage: 70
   color: dark
 
+- name: CMake
+  percentage: 70
+  color: dark
+
 - name: bash
   percentage: 60
   color:
