@@ -1,0 +1,31 @@
+- name: Computational Physics
+  percentage: 90
+  color:
+
+- name: Parallel computing
+  percentage: 70
+  color:
+
+- name: Project management
+  percentage: 70
+  color:
+
+- name: Code review
+  percentage: 70
+  color:
+
+- name: Comsol
+  percentage: 60
+  color:
+
+- name: GROMACS
+  percentage: 60
+  color:
+
+- name: SaltStack
+  percentage: 50
+  color:
+
+- name: SLURM
+  percentage: 50
+  color:

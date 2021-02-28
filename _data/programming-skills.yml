@@ -1,0 +1,23 @@
+- name: C++
+  percentage: 90
+  color: danger
+
+- name: Python
+  percentage: 80
+  color:
+
+- name: git
+  percentage: 70
+  color: dark
+
+- name: bash
+  percentage: 60
+  color:
+
+- name: CUDA
+  percentage: 50
+  color:
+
+- name: Tcl
+  percentage: 50
+  color:
