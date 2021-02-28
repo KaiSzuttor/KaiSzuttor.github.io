@@ -7,8 +7,11 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Hi I am **{{ site.author.name }}**,<br>
+I'm a C++ and Python developer from Stuttgart with a background in
+computational soft matter science. In my leisure time I like to learn new
+things about programming trends, riding the bicycle, playing the guitar and
+having a good time with my two daughters.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
